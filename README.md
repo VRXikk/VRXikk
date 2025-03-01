@@ -6,7 +6,7 @@ Frontend: Next.js, React, Tailwind CSS<br>Backend: Supabase, PostgreSQL<br>AI To
 To create impactful, data-driven applications that blend smart automation with intuitive design, making everyday tasks and complex decisions simpler for users.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/VRXikk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@VRXik) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VRXikk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
