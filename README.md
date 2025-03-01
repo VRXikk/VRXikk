@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a passionate developer with a love for building web apps and tools that make life easier. I specialize in modern web technologies like Next.js, React, and Supabase, and I often work with AI models like Claude AI and DeepSeek to enhance my projects. 🚀<br><br>
 # 🔧 Tech Stack:
-Frontend: Next.js, React, Tailwind CSS<br>Backend: Supabase, PostgreSQL<br>AI Tools: Claude AI, DeepSeek<br>APIs & Integrations: Google Flights, Skyscanner, Booking, Uber, OpenWeather<br>Hosting & Deployment: Vercel, Supabase Cloud<br><br>
+Frontend: Next.js, React, Tailwind CSS<br>Backend: Supabase, PostgreSQL<br>AI Tools: Claude AI, DeepSeek<br>APIs & Integrations: Google Flights, Skyscanner, Booking, Uber, OpenWeather, Pusher, Stripe<br>Hosting & Deployment: Vercel, Supabase Cloud<br><br>
 # 🎯 Goal:
 To create impactful, data-driven applications that blend smart automation with intuitive design, making everyday tasks and complex decisions simpler for users.
 
