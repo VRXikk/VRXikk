@@ -9,9 +9,6 @@ To create impactful, data-driven applications that blend smart automation with i
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/VRXikk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VRXik) 
 # 📊 GitHub Stats:
-![](https://awesome-github-stats.azurewebsites.net/user-stats/VRXikk?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)
-
----
-[![](https://visitcount.itsvg.in/api?id=VRXikk&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://awesome-github-stats.azurewebsites.net/user-stats/VRXikk?cardType=level&theme=github-dark&fontFamily=Inter&preferLogin=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
