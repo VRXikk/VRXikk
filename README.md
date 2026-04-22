@@ -54,7 +54,7 @@ Zamieniać procesy i pomysły w działający produkt. Jeśli da się coś zautom
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/VRXikk)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VRXik)
-[![Website](https://img.shields.io/badge/l3st.pl-000000?logo=About.me&logoColor=white)](https://l3st.pl)
+[![Website](https://img.shields.io/badge/l3st.pl-000000?logo=L&logoColor=white)](https://l3st.pl)
 
 ---
 
